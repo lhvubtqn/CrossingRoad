@@ -1,2 +1,4 @@
 # CrossingRoad
-TH OOP - Final
+TH OOP - Final Assignment
+**Author: Hoang-Vu Le**
+**HCMC University of Science**
