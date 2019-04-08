@@ -1,5 +1,5 @@
 # CrossingRoad
-TH OOP - Final Assignment
+A simple game made by me!
 
 **Coded by C/C++ - Visual Studio 2017**
 
