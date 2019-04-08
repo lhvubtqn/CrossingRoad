@@ -1,5 +1,5 @@
 # CrossingRoad
-A simple game made by me!
+An Assignment for Object Oriented Programming
 
 **Coded by C/C++ - Visual Studio 2017**
 
